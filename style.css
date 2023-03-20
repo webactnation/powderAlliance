@@ -1,9 +1,7 @@
 .dudaContainer {
-	max-width: 90%;
-	margin: 50px auto;
-	border: 1px solid blue;
+	max-width: 100%;
+	margin: 0 auto;
 	height: auto;
-	/* overflow: hidden; */
 	background: #113474;
 }
 
