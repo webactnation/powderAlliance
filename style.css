@@ -1,3 +1,12 @@
+.dudaContainer {
+	max-width: 90%;
+	margin: 50px auto;
+	border: 1px solid blue;
+	height: auto;
+	/* overflow: hidden; */
+	background: #113474;
+}
+
 /* Start CSS Here */
 .customInteractiveMap-Main-Container,
 .customInteractiveMap-Main-Container a,
@@ -35,7 +44,7 @@
 }
 
 .customInteractiveMap-Main-Container {
-    padding: 20px 0;
+	padding: 20px 0;
 }
 
 /*Loader CSS*/
@@ -292,22 +301,16 @@ p.mapDes {
 	display: block !important;
 }
 
-.dudaContainer {
-    height: auto;
-    /* overflow: hidden; */
-    background: #113474;
-}
-
-.customInteractiveMap-Main-Container{
-    max-width: 1100px;
-    margin: 0 auto;
+.customInteractiveMap-Main-Container {
+	max-width: 1100px;
+	margin: 0 auto;
 }
 
 .mapImageCon img {
-    max-width: 1100px;
-    margin: 0 auto;
+	max-width: 1100px;
+	margin: 0 auto;
 }
 
 .newZealand-map-wrapper .mapImageCon img {
-    max-width: 600px;
+	max-width: 600px;
 }
